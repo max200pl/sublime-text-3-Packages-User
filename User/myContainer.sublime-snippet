@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+<div class="container">
+	<div class="${1:block}">
+		<div class="${1:block}__${2:item}">
+			<div class="${2:item}__header">
+			</div>
+			<div class="${2:item}__text">
+			</div>
+		</div>
+	</div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>myCont</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.html</scope> -->
+</snippet>

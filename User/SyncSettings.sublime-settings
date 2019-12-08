@@ -1,0 +1,35 @@
+{
+    // Brings write permission to Sync Settings over your gists (edit, delete and create).
+    // This option is not required, if you only want to download your backups
+    "access_token": "5a48319d63f574c4384bac214fb20533fb85847a",
+
+    // Identifier of your backup on gist.github.com.
+    "gist_id": "b5516b5d9c5d2f10e6c42fc464ed45ae",
+
+    // In simple words, this option is a black list. Which means, every file
+    // that match with the defined pattern, will be ignored on sync.
+    "excluded_files": [
+        "*.dmg",
+        "*.DS_Store*",
+        "*.exe",
+        "*.Spotlight-V100",
+        "*.Trashes",
+        "*ehthumbs.db",
+        "*oscrypto-ca-bundle.crt",
+        "*Package Control.cache/*",
+        "*Package Control.last-run",
+        "*Package Control.merged-ca-bundle",
+        "*Package Control.system-ca-bundle",
+        "*Package Control.user-ca-bundle",
+        "*Thumbs.db"
+    ],
+
+    // In simple words, this option is a white list. Which means, every file that
+    // match with the defined pattern, will be included on sync, even if it was
+    // included on `excluded_files` option.
+    "included_files": [],
+
+    // If is `true`, your settings will be synced with the latest settings on
+    // gist.github.com when Sublime Text startup
+    "auto_upgrade": false
+}

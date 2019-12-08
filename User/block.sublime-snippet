@@ -1,0 +1,20 @@
+<snippet>
+	<content>
+		<![CDATA[
+		<div class="container">
+			<div class="block">
+				<div class="block__item">
+					<div class="item__header">${1
+					</div>
+					<div class="item__text">${2
+					</div>
+				</div>
+			</div>
+		</div>
+		]]>
+	</content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>blooock</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- 	<scope>.html</scope> где использовать сниппет  -->
+</snippet>

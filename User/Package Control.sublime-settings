@@ -1,0 +1,30 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"All Autocomplete",
+		"AutoFileName",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"CSS Less(ish)",
+		"CSScomb",
+		"Emmet",
+		"Gist",
+		"Goto-CSS-Declaration",
+		"LESS",
+		"LESS-build",
+		"Less2Css",
+		"LiveReload",
+		"My Snippets",
+		"One Dark Color Scheme",
+		"One Dark Material - Theme",
+		"Package Control",
+		"SublimeLinter-contrib-lesshint",
+		"SublimeOnSaveBuild",
+		"View In Browser"
+	]
+}

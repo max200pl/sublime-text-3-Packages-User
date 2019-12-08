@@ -1,0 +1,1 @@
+{ "keys": ["ctrl+shift+s"], "command": "auto_save", "args": {"all_files": true, "backup": false} }
